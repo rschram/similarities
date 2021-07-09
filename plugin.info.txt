@@ -1,0 +1,7 @@
+base   similarities
+author Ryan Schram
+email  dokuwiki@rschram.org
+date   2021-07-08
+name   similarities plugin
+desc   Identifies similar pages based on the cosine of TFIDF vectors
+url    https://rschram.org

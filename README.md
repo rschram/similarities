@@ -12,7 +12,7 @@ starting point for your own page-similarity plugin, by all means do
 so. As you can see, I make use of a cosine similarity algorithm
 written by someone else. More experienced developers will have much
 better chances of making something more generally useful and
-efficient, and so my goal of having a page-recommendation enging for
+efficient, and so my goal of having a page-recommendation engine for
 DW is still served by people branching off and doing their own things.
 
 The purpose of this plugin for Dokuwiki is two-fold:

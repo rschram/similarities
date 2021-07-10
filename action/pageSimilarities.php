@@ -115,7 +115,7 @@ class action_plugin_similarities_pageSimilarities extends DokuWiki_Action_Plugin
             '/\-/'                       // hyphens
         );
         
-        preg_replace($patterns,'',$event->data);
+        $event->data = preg_replace($patterns,'',$event->data);
 
     }
 
